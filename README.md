@@ -8,3 +8,5 @@ This student project focuses on denoising and reconstructing 3D medical images b
 Performance Evaluation:
 The model's effectiveness is assessed using Mean Squared Error (MSE) and Structural Similarity Index Measure (SSIM) metrics, demonstrating promising results in enhancing image quality.
 
+This GIF shows the transition from the undersampled input to the denoised output at epoch 3:
+![Denoising Transition](demo_transition_epoch_3.gif)
